@@ -23,9 +23,8 @@ Privite EV Charging Network respects your privacy. This Privacy Policy explains 
 Reasonable measures to protect your data
 
 ## 5. Your Rights
-- Request a copy
-- Request deletion
 - Opt-out of notifications
+- Opt-out of location services
 
 ## 6. Contact
 Email: tajvirsahota@gmail.com  
